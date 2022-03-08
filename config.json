@@ -1,0 +1,16 @@
+{
+  "triads": [
+    {
+      "title": "Describe your relationship to the qualities you admire in them.",
+      "label1": "I mostly have these qualities",
+      "label2": "I mostly lack these qualities",
+      "label3": "They inspire me with these qualities"
+    },
+    {
+      "title": " After answering that question, select the location in the triangle closest to how you feel now.",
+      "label1": "Bored",
+      "label2": "Embarrassed",
+      "label3": "Longing"
+    }
+  ]
+}
